@@ -1,0 +1,1 @@
+This is the 1st project in the odin project Foundations course. Its an entry level project aiming to teach HTML fundementals.
